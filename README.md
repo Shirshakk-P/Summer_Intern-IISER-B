@@ -3,7 +3,7 @@
 
 This repository consists of the designing and analysing a rectangular microstrip Bluetooth patch antenna that has a resonant frequency of 2.4 GHz on COMSOL_v5.6.</br>
 
-
+> Images folder contains images of the different aspects obtained by simulation.
 > param-Polyamide.txt contains the design parameters for the simulation.
 
             Mesh Structure:
