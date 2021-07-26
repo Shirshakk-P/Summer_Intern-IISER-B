@@ -7,6 +7,8 @@ This repository consists of the designing and analysing a rectangular microstrip
 
 > param-Polyamide.txt contains the design parameters for the simulation.
 
+  COMSOL File:  https://mega.nz/file/VJowHAhB#90_Ag_LuCPCOL4w1GrnhA4gAHDVnzqdWiKljQ0dBBEo
+        
             Mesh Structure:
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/32801148/126959885-79ad9e00-49f4-46b8-90fd-e638bde4377d.png)
@@ -24,8 +26,6 @@ This repository consists of the designing and analysing a rectangular microstrip
 ![Screenshot (99)](https://user-images.githubusercontent.com/32801148/126960360-c1af9b1b-f27f-4513-b090-2917fb100835.png)
 
 
-        COMSOL File:  
-        
   Author:
         
         SHIRSHAKK PURKAYASTHA
